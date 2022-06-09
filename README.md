@@ -1,7 +1,7 @@
 # flutter_plugins_with_theme_international
 Flutter的主题和国际化  
 ## 国际化
-实现国际化比较简单，借助插件快速生成需要适配的地区语言（国际化的工具---Intl）  
+实现国际化比较简单，借助插件快速生成需要适配的地区语言，每次需要在l10n文件夹下的所有地域的文件中添加一样的key不同value然后保存会自动生成对应代码到generated文件夹下（国际化的工具---Intl）  
 难点：精确适配地区语言  
 注意点：切勿在main.dart入口组件中使用S.of(context).<字段>，用当前入口的context获取的国际化内容为null；需要创建子组件文件，在其中便可正常使用  
 参考链接：https://www.jianshu.com/p/5d0c901dc972
