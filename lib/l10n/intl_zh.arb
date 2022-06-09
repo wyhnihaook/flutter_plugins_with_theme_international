@@ -1,0 +1,18 @@
+{
+  "appName": "应用的名称",
+  "autoBySystem": "跟随系统",
+  "title1": "Flutter示例",
+  "title2": "首页容器标题",
+  "content1": "容器内容展示数据",
+  "content2": "测试数据1",
+  "content3": "点击响应事件，局部状态刷新管理",
+  "content4": "切换当前主题到暗夜模式",
+  "content5": "切换当前主题到亮模式",
+  "content6": "切换语言到英文",
+  "content7": "切换语言到中文",
+  "content8": "跳转下一个界面",
+  "content9": "修改主题色到红色固定",
+  "content10": "自定义文本"
+
+
+}

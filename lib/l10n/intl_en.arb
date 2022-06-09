@@ -1,0 +1,18 @@
+{
+  "appName": "AppName",
+  "autoBySystem": "Auto",
+  "title1": "Flutter Demo",
+  "title2": "Flutter Demo Home Page",
+  "content1": "You have pushed the button this many times:",
+  "content2": "test content",
+  "content3": "click refresh local widget",
+  "content4": "switch theme to dark",
+  "content5": "switch theme to light",
+  "content6": "switch locale to english",
+  "content7": "switch locale to chinese",
+  "content8": "goto next page",
+  "content9": "change theme color to red",
+  "content10": "custom text"
+
+
+}
